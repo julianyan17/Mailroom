@@ -1,6 +1,6 @@
 Author: Julian Yan  
 Date: 5/8/2019  
-Title: Mailroom
+Title: Mailroom  
 Summary: This program implements a queue and hashmap to mimic the sorting of an item in a mailroom.
 
 Contents: 
